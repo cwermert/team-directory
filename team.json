@@ -69,5 +69,20 @@
     "twitter": "ingridjensen",
     "github": "ingridjensen",
     "foursquare": "ingridjensen"
+  },
+  {
+    "fname": "Ted",
+    "lname": "Danson",
+    "email": "sam@cheers.com",
+    "sex": "xy",
+    "birthday": "1953-11-12",
+    "call": "5555551234",
+    "office": "sf",
+    "teams": [
+      "engineering"
+    ],
+    "twitter": "RealTedDanson",
+    "github": "ted_danson",
+    "other-links": []
   }
 ]
